@@ -1,2 +1,2 @@
 # cloudcomputing
-## This folder contains our final project for cloud Computing class
+### This folder is created for our final project presentation for cloud Computing class
